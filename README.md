@@ -1,7 +1,15 @@
 # Metal-Pracitces
 
+
+## Projects/004-spinning-points:
+this time，loading a train 3D Model.
+
+![image](https://github.com/chansonyan/Metal-Pracitces/blob/main/Images/004-spinning-points/spin-points.gif)
+
+
+
 ## Projects/0035-Pipeline-train:
-this time，loading a train.
+this time，loading a train 3D Model.
 
 ![image](https://github.com/chansonyan/Metal-Pracitces/blob/main/Images/0035-Pipeline-train/Screenshot-train.png)
 
