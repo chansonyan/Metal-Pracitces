@@ -2,7 +2,7 @@
 
 
 ## Projects/004-spinning-points:
-this time，loading a train 3D Model.
+with a little bit of math.
 
 ![image](https://github.com/chansonyan/Metal-Pracitces/blob/main/Images/004-spinning-points/spin-points.gif)
 
