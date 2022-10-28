@@ -1,5 +1,10 @@
 # Metal-Pracitces
 
+## Projects/006-Perspective-1:
+add perspective to the view. and Animation: spinning
+
+![image](https://github.com/chansonyan/Metal-Pracitces/blob/main/Images/006-Perspective-1/perspective_train.gif)
+
 
 ## Projects/005-transformation:
 with a little bit of math.
